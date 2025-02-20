@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: WooCommerce Add to Cart Click Tracker
- * Description: Tracks Add to Cart button clicks and provides an admin page to display product statistics with order metrics.
+ * Plugin Name: Woo metrics
+ * Description: WC Metrics is a lightweight WooCommerce plugin that tracks key funnel metrics—such as add-to-cart clicks, cart views, checkout views, and orders—providing an intuitive admin dashboard to compare your store’s data with Google Analytics.
  * Version: 2.0
  * Author: Tasos Paraskevakis
  * License: GPL2

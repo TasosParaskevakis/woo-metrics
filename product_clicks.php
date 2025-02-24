@@ -1,7 +1,6 @@
 <?php
 // product_clicks.php
 
-// Note: This file is included in the admin page, so it does not need its own plugin header.
 
 echo '<!-- BEGIN Product Clicks Stats -->';
 
